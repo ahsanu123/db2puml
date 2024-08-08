@@ -18,7 +18,7 @@
    <img src="./documentation/db2puml_gif.gif" alt="db2puml">
 </p>
 
-<h3 align="center">✨ Toy Project To Generate Databse Server Entity Diagram </h3>
+<h3 align="center">✨ Toy Project To Generate Database Server Entity Diagram </h3>
 
 
 ## 🎏 DB2PUML
