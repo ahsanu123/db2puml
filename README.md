@@ -26,9 +26,6 @@ Generate PlantUML Entity Relationship Diagram From Database Tables
 
 This command line utility parses the tables in Database server to generate PlantUML syntax to create diagrams of Databse tables and thier foreign key relationships 
 
-- TODO: add support to postgres, mysql, sqlite
-- TODO: Create `setting.json` setup ui
-
 ## 🧰 Prerequisite
 - Dotnet 8 for build
 - Java for running plantuml
@@ -74,6 +71,9 @@ COMMANDS:
 ```
 
 ## 🥝 Note
+
+- TODO: add support to postgres, mysql, sqlite
+- TODO: Create `setting.json` setup ui
 - if you use cmd or windows based terminal emoji may not showing up, you can use `chcp 65001 & cmd` to see emoji (ref: https://conemu.github.io/en/UnicodeSupport.html)
 - this project forked from https://github.com/OceanAirdrop/SqlServerToPlantUML.git
 
